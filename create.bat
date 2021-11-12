@@ -3,6 +3,6 @@ git init
 git add *
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/wu58430/calculator.git
-git push https://github.com/wu58430/calculator
+git remote add origin https://github.com/wu58430/cal.git
+git push https://github.com/wu58430/cal
 pause
